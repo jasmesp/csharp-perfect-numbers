@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{37E057A8-429A-49A8-B27F-5088292D5AEF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testy/Generate.cs">
+    <Files>
+      <File FileName="testy/Program.cs" Line="17" Column="28" />
+      <File FileName="testy/Generate.cs" Line="29" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testy" expanded="True">
+            <Node name="testy" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.testy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

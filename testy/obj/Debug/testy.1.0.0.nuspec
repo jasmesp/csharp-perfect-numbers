@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>testy</id>
+    <version>1.0.0</version>
+    <authors>testy</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/jasbook/Projects/testy/testy/bin/Debug/net6.0/testy.runtimeconfig.json" target="lib/net6.0/testy.runtimeconfig.json" />
+    <file src="/Users/jasbook/Projects/testy/testy/bin/Debug/net6.0/testy.dll" target="lib/net6.0/testy.dll" />
+  </files>
+</package>

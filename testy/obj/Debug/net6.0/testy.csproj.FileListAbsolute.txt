@@ -1,0 +1,15 @@
+/Users/jasbook/Projects/testy/testy/bin/Debug/net6.0/testy
+/Users/jasbook/Projects/testy/testy/bin/Debug/net6.0/testy.deps.json
+/Users/jasbook/Projects/testy/testy/bin/Debug/net6.0/testy.runtimeconfig.json
+/Users/jasbook/Projects/testy/testy/bin/Debug/net6.0/testy.dll
+/Users/jasbook/Projects/testy/testy/bin/Debug/net6.0/testy.pdb
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/testy.csproj.AssemblyReference.cache
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/testy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/testy.AssemblyInfoInputs.cache
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/testy.AssemblyInfo.cs
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/testy.csproj.CoreCompileInputs.cache
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/testy.dll
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/refint/testy.dll
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/testy.pdb
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/testy.genruntimeconfig.cache
+/Users/jasbook/Projects/testy/testy/obj/Debug/net6.0/ref/testy.dll

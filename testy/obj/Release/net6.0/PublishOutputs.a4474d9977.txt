@@ -1,0 +1,5 @@
+/Users/jasbook/Projects/testy/testy/bin/Release/net6.0/publish/testy
+/Users/jasbook/Projects/testy/testy/bin/Release/net6.0/publish/testy.dll
+/Users/jasbook/Projects/testy/testy/bin/Release/net6.0/publish/testy.deps.json
+/Users/jasbook/Projects/testy/testy/bin/Release/net6.0/publish/testy.runtimeconfig.json
+/Users/jasbook/Projects/testy/testy/bin/Release/net6.0/publish/testy.pdb
